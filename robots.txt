@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weedauthority.eb28.co/sitemap.xml
